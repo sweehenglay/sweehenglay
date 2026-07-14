@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Swee Heng! 👋
 
-<!--
-**sweehenglay/sweehenglay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a passionate professional focused on building practical AI and Data Analytics projects while expanding my skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Deep Learning & Machine Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 🧠 Large Language Models (LLMs) & Generative AI
+- 🐍 Python
+- 📊 Power BI & Data Analytics
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** (e.g., Python, HTML, CSS, JavaScript)
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+### 📫 How to reach me
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/laysweeheng)
+  
+I believe the best way to learn is by building real-world projects and continuously improving them through software engineering best practices.
