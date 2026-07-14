@@ -14,7 +14,7 @@ I am a passionate professional focused on building practical AI and Data Analyti
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** (e.g., Python, HTML, CSS, JavaScript)
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab
 
 ### 📫 How to reach me
 - **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/laysweeheng)
